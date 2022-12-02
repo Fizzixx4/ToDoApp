@@ -1,7 +1,7 @@
 # ToDoApp
 ToDoApp est une application de gestion de projet collaboratif. Elle permet de créer des projets et de consulter le statut des tâches qui y sont rattachées. Elle possède:
 1) Un système de session utilisateur et de gestion de compte
-2) La possibilité de créer ses projets, en être administrateur et créer des tâches reliées à ce dernier
+2) La possibilité de créer ses projets, en être administrateur et créer des tâches reliées à ces derniers
 3) La possibilité d'affecter d'autres utilisateurs à ses projets et aux tâches existantes
 # Pré-requis
 1) Créer une base de donnée dans PhpMyAdmin se nommant projetmcd
